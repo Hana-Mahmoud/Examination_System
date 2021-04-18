@@ -1,7 +1,6 @@
 # Examination_System
-A Windows Form application using C# about  Examination System 
-Examination_System
-A desktop application for examination system where instructor can generate exam and students take exams and get their grades instantly.
+A Windows Form application using C# for Examination System 
+
 
 How to Use It
 Steps to go through the system when running:
